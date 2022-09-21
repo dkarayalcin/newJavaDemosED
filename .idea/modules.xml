@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/boyKiloIndeksi/boyKiloIndeksi.iml" filepath="$PROJECT_DIR$/boyKiloIndeksi/boyKiloIndeksi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comsumePerKilometers/comsumePerKilometers.iml" filepath="$PROJECT_DIR$/comsumePerKilometers/comsumePerKilometers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/downloadTimeDemos/downloadTimeDemos.iml" filepath="$PROJECT_DIR$/downloadTimeDemos/downloadTimeDemos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/musJavaDemos.iml" filepath="$PROJECT_DIR$/.idea/musJavaDemos.iml" />
+    </modules>
+  </component>
+</project>
